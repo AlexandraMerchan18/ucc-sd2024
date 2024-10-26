@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "Java_prueba/src/main/java/org/example",
+        "app-cliente-java/src/main/java/org/example"
+    ]
+}

@@ -1,0 +1,1 @@
+docker build -t Alexandra18/ubuntu-python3:latest .
