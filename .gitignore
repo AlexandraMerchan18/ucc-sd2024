@@ -28,6 +28,6 @@ Data/Crime_Data_from_2020_to_Present_20240914-Full.csv
 target
 *.bak
 .dbeaver/credentials-config.json
-
+*.csv
 
 *.zip
