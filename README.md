@@ -5,6 +5,7 @@
 Este proyecto es un sistema dockerizado completo que integra múltiples bases de datos y aplicaciones orientadas al manejo de flujos avanzados de datos. Combina PostgreSQL con replicación, Oracle Database y aplicaciones en Python, C++ y Flask para ofrecer un entorno capaz de insertar, consultar, transformar y mover datos de manera eficiente.
 
 🚀 Características Principales
+
 🔹 1. Bases de Datos Integradas
 
 PostgreSQL (Master + Replica): Configuración de replicación para alta disponibilidad.
